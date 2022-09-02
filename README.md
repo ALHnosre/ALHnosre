@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yeferson
+- 👋 Hi, I’m Yeferson
 - 👀 I’m interested in fronted and backend
 - 🌱 I’m currently learning Java/Js/Ruby/Python
 - 💞️ I’m looking to collaborate on anything that will help me to improve my skills
